@@ -8,7 +8,7 @@ module.exports = {
   solidity: "0.8.17",
 };
 
-const ALCHEMY_API_KEY = "V4RnRcuFIXrDnzawZgRAs3GzaKEPsOlT";
+const ALCHEMY_API_KEY = "_KmVPA96VqCvR3O82MVqtuAnc9m846w-";
 const GOERLI_PRIVATE_KEY = "ae8df608900ddaafde1fdbaab1a404a4996117c6e21fcea2e533ee8259637de9";
 module.exports = {
   solidity: "0.8.9",
