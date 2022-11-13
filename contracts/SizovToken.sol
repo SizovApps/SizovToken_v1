@@ -12,4 +12,8 @@ contract SizovToken is ERC20, Ownable {
     function mint(address to, uint256 amount) public onlyOwner {
         _mint(to, amount);
     }
+
+    function getMessage() public view returns (string memory) {
+        return "My message";
+    }
 }
